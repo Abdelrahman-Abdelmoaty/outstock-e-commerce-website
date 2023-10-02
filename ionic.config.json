@@ -1,0 +1,8 @@
+{
+  "name": "Outstock E-Commerce Website",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "fc566095"
+}
